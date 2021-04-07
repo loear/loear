@@ -35,3 +35,5 @@ vim               27 mins             ░░░░░░░░░░░░░░
 Mac               26 hrs 24 mins      █████████████████████████   100.0%
 
 ```
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=loear&show_icons=true&theme=dark)](https://github.com/loear)
